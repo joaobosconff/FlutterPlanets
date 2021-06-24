@@ -1,4 +1,4 @@
-# atv2
+# FlutterPlanets
 
 A new Flutter project.
 
